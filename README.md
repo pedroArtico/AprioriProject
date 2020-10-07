@@ -1,2 +1,2 @@
 # AprioriProject
-Uso do algoritmo apriori para extrair regras ioportantes o negocio
+Uso do algoritmo apriori para extrair regras ipportantes o negocio
